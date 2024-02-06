@@ -1,0 +1,2 @@
+1. Preset initial values of stiffness modifier listboxes
+2. Add Splashscreen and AboutBox window

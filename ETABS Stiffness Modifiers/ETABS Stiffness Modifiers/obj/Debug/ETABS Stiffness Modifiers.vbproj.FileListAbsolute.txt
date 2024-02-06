@@ -1,0 +1,17 @@
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\ETABS Stiffness Modifiers.exe.config
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\ETABS Stiffness Modifiers.exe
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\ETABS Stiffness Modifiers.pdb
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\ETABS Stiffness Modifiers.xml
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.vbproj.AssemblyReference.cache
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.vbproj.SuggestedBindingRedirects.cache
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS_Stiffness_Modifiers.Form1.resources
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS_Stiffness_Modifiers.Resources.resources
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.vbproj.GenerateResource.cache
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.vbproj.CoreCompileInputs.cache
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.exe
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.xml
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.pdb
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\CSiAPIv1.dll
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\CSiDetailAPI.dll
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\bin\Debug\ETABSv1.dll
+C:\Users\galbieri\OneDrive - Buro Happold\Structures\10_Computational\HOI\ETABS Cracked Stiffness Modifiers\ETABS Stiffness Modifiers\ETABS Stiffness Modifiers\obj\Debug\ETABS Stiffness Modifiers.vbproj.CopyComplete
