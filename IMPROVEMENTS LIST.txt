@@ -1,2 +1,29 @@
 1. Preset initial values of stiffness modifier listboxes
-2. Add Splashscreen and AboutBox window
+	a. Set "Default" to get this values back if the user changed them in the current form (by code?)
+2. Concrete's Tensile S
+	a. Set "Automatic" to calculate value with mech. properties (Describe calculation in methodology)
+3. Add Splashscreen and AboutBox window
+	a. Highlight that the earliest opened Etabs Instance will be attached
+	b. Description of Methodology
+	c. Highlight Output information
+4. Error handling
+	a. Crashing program > Exit Etabs > wipe memory
+5. Get list of cracked walls by iter
+	i.e:
+		iter 1: W1
+		iter 2: W2, W5
+		iter 3: W4
+		iter 4: W3
+		iter 5: W6
+	To check stresses redistribution
+	How: Handling of unique Name or Label (?)
+6. Toolbar hidden after opening file, can be avoided?
+
+
+--------------------------------------------------------
+Superseded files (or future dev? / doubts):
+	FrameObjModifiers.vb
+	Purpose of New File creation?
+		Version Control? Model seems to be equal
+		Creates a copy to work in background? To avoid corruption of main file
+		
