@@ -8,6 +8,9 @@
 	c. Highlight Output information
 4. Error handling
 	a. Crashing program > Exit Etabs > wipe memory
+	b. Unselected Wall group
+	c. Unselected load combination
+	d. Wrong selection of element groups, check if groups have area element
 5. Get list of cracked walls by iter
 	i.e:
 		iter 1: W1
@@ -16,14 +19,9 @@
 		iter 4: W3
 		iter 5: W6
 	To check stresses redistribution
-	How: Handling of unique Name or Label (?)
 6. Toolbar hidden after opening file, can be avoided?
 
-
 --------------------------------------------------------
-Superseded files (or future dev? / doubts):
-	FrameObjModifiers.vb
-	Purpose of New File creation?
-		Version Control? Model seems to be equal
-		Creates a copy to work in background? To avoid corruption of main file
-		
+
+Future dev
+1. FrameObjModifiers.vb
