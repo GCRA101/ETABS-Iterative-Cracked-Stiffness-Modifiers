@@ -31,6 +31,9 @@ Public Class Form1
 
         importUserInputData()
 
+        'SAVE THE MODEL
+        etabsModel.File.Save(setNewFilePath(etabsModel.GetModelFilename(True)))
+
         Dim progrBarStep As Integer = (Me.progrBar.Maximum - Me.progrBar.Minimum) \ iterNumMax
 
         For iter As Integer = 0 To iterNumMax
@@ -42,9 +45,9 @@ Public Class Form1
         Me.lblProgrBar.Text = "TRANSFER COMPLETED!"
         Me.Refresh()
 
-
         'SAVE THE MODEL
-        etabsModel.File.Save(setNewFilePath(etabsModel.GetModelFilename(True)))
+        etabsModel.File.Save()
+
 
         'CLOSE ETABS APPLICATION
         etabsApp.ApplicationExit(False)
